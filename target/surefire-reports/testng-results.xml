@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ArgusV1" duration-ms="120087" started-at="2020-07-20T19:55:04 IST" finished-at="2020-07-20T19:57:04 IST">
+    <groups>
+    </groups>
+    <test name="ArgusApp Test" duration-ms="120087" started-at="2020-07-20T19:55:04 IST" finished-at="2020-07-20T19:57:04 IST">
+      <class name="com.Argus.testcases.TC_Logintest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Argus.testcases.TC_Logintest_001@3108bc]" name="setup" is-config="true" duration-ms="16637" started-at="2020-07-20T19:55:05 IST" finished-at="2020-07-20T19:55:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Argus.testcases.TC_Logintest_001@3108bc]" name="loginTest" duration-ms="3437" started-at="2020-07-20T19:55:21 IST" finished-at="2020-07-20T19:55:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Argus.testcases.TC_Logintest_001@3108bc]" name="teardown" is-config="true" duration-ms="5854" started-at="2020-07-20T19:55:25 IST" finished-at="2020-07-20T19:55:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Argus.testcases.TC_Logintest_001 -->
+      <class name="com.Argus.testcases.TC_LoginDDT_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="setup" is-config="true" duration-ms="13608" started-at="2020-07-20T19:55:31 IST" finished-at="2020-07-20T19:55:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="LoginDDT" duration-ms="11312" started-at="2020-07-20T19:55:47 IST" data-provider="logindata" finished-at="2020-07-20T19:55:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr270726]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[zytejyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="LoginDDT" duration-ms="11307" started-at="2020-07-20T19:55:58 IST" data-provider="logindata" finished-at="2020-07-20T19:56:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr83460]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAbUzyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="LoginDDT" duration-ms="11912" started-at="2020-07-20T19:56:09 IST" data-provider="logindata" finished-at="2020-07-20T19:56:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr137319]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bAdYvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="LoginDDT" duration-ms="11392" started-at="2020-07-20T19:56:21 IST" data-provider="logindata" finished-at="2020-07-20T19:56:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr270726]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[zytejyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="LoginDDT" duration-ms="11576" started-at="2020-07-20T19:56:33 IST" data-provider="logindata" finished-at="2020-07-20T19:56:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr112909]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tytUreg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Argus.testcases.TC_LoginDDT_002@370736d9]" name="teardown" is-config="true" duration-ms="20184" started-at="2020-07-20T19:56:44 IST" finished-at="2020-07-20T19:57:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Argus.testcases.TC_LoginDDT_002 -->
+    </test> <!-- ArgusApp Test -->
+  </suite> <!-- ArgusV1 -->
+</testng-results>

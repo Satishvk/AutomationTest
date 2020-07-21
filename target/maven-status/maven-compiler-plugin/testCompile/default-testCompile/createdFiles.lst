@@ -1,0 +1,9 @@
+com\Argus\PageObjects\LoginPage.class
+com\Argus\utilities\ReadConfig.class
+com\Argus\testcases\TC_Logintest_001.class
+com\Argus\testcases\TC_LoginDDT_002.class
+com\Argus\utilities\XLUtils.class
+com\Argus\PageObjects\AddCustomerPage.class
+com\Argus\testcases\BaseaClass.class
+com\Argus\testcases\TC_AddCustomerTest_003.class
+com\Argus\utilities\Reporting.class

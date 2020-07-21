@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ArgusV1]">
+  <listeners>
+    <listener class-name="com.Argus.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="ArgusApp Test(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="com.Argus.testcases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.Argus.testcases.TC_AddCustomerTest_003 -->
+    </classes>
+  </test> <!-- ArgusApp Test(failed) -->
+</suite> <!-- Failed suite [ArgusV1] -->

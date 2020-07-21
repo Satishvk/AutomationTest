@@ -1,0 +1,383 @@
+2020-07-09 11:15:08,294 - ArgusV1 -INFO - URL is opened
+2020-07-09 11:15:08,559 - ArgusV1 -INFO - Enter username
+2020-07-09 11:15:08,607 - ArgusV1 -INFO - Enter Password
+2020-07-09 14:23:09,151 - ArgusV1 -INFO - URL is opened
+2020-07-09 14:23:09,433 - ArgusV1 -INFO - Enter username
+2020-07-09 14:23:09,484 - ArgusV1 -INFO - Enter Password
+2020-07-09 14:23:11,471 - ArgusV1 -INFO - Test is passed
+2020-07-10 11:21:01,020 - ArgusV1 -INFO - URL is opened
+2020-07-10 11:21:01,236 - ArgusV1 -INFO - Entered username
+2020-07-10 11:21:01,292 - ArgusV1 -INFO - Entered Password
+2020-07-10 11:21:03,361 - ArgusV1 -INFO - Test is passed
+2020-07-10 11:24:35,515 - ArgusV1 -INFO - URL is opened
+2020-07-10 11:24:35,658 - ArgusV1 -INFO - Entered username
+2020-07-10 11:24:35,717 - ArgusV1 -INFO - Entered Password
+2020-07-10 11:24:37,756 - ArgusV1 -INFO - Test is passed
+2020-07-10 15:10:59,405 - ArgusV1 -INFO - URL is opened
+2020-07-10 15:10:59,556 - ArgusV1 -INFO - Entered username
+2020-07-10 15:10:59,612 - ArgusV1 -INFO - Entered Password
+2020-07-10 15:15:34,137 - ArgusV1 -INFO - URL is opened
+2020-07-10 15:15:34,271 - ArgusV1 -INFO - Entered username
+2020-07-10 15:15:34,327 - ArgusV1 -INFO - Entered Password
+2020-07-10 15:15:36,552 - ArgusV1 -INFO - Test is passed
+2020-07-10 17:39:04,908 - ArgusV1 -INFO - URL is opened
+2020-07-10 17:39:05,032 - ArgusV1 -INFO - Entered username
+2020-07-10 17:39:05,081 - ArgusV1 -INFO - Entered Password
+2020-07-10 17:39:06,813 - ArgusV1 -INFO - Test is passed
+2020-07-10 17:48:03,913 - ArgusV1 -INFO - URL is opened
+2020-07-10 17:48:04,064 - ArgusV1 -INFO - Entered username
+2020-07-10 17:48:04,111 - ArgusV1 -INFO - Entered Password
+2020-07-10 17:48:06,284 - ArgusV1 -INFO - Test is passed
+2020-07-10 17:49:24,739 - ArgusV1 -INFO - URL is opened
+2020-07-10 17:49:24,864 - ArgusV1 -INFO - Entered username
+2020-07-10 17:49:24,910 - ArgusV1 -INFO - Entered Password
+2020-07-10 17:49:26,900 - ArgusV1 -INFO - Test is passed
+2020-07-10 17:52:42,611 - ArgusV1 -INFO - URL is opened
+2020-07-10 17:52:42,745 - ArgusV1 -INFO - Entered username
+2020-07-10 17:52:42,794 - ArgusV1 -INFO - Entered Password
+2020-07-10 17:52:45,965 - ArgusV1 -INFO - Test is passed
+2020-07-13 10:54:10,078 - ArgusV1 -INFO - URL is opened
+2020-07-13 10:54:10,226 - ArgusV1 -INFO - Entered username
+2020-07-13 10:54:10,278 - ArgusV1 -INFO - Entered Password
+2020-07-13 10:54:12,608 - ArgusV1 -INFO - Test is passed
+2020-07-13 11:06:04,100 - ArgusV1 -INFO - URL is opened
+2020-07-13 11:06:04,243 - ArgusV1 -INFO - Entered username
+2020-07-13 11:06:04,307 - ArgusV1 -INFO - Entered Password
+2020-07-13 11:06:06,699 - ArgusV1 -INFO - Test is passed
+2020-07-13 11:06:29,391 - ArgusV1 -INFO - User is provided
+2020-07-13 11:06:29,449 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:06:37,250 - ArgusV1 -INFO - Login passed
+2020-07-13 11:06:42,555 - ArgusV1 -INFO - User is provided
+2020-07-13 11:06:42,721 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:06:47,728 - ArgusV1 -INFO - Login passed
+2020-07-13 11:06:54,337 - ArgusV1 -INFO - User is provided
+2020-07-13 11:06:54,413 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:06:59,740 - ArgusV1 -INFO - Login passed
+2020-07-13 11:07:05,437 - ArgusV1 -INFO - User is provided
+2020-07-13 11:07:05,490 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:07:10,237 - ArgusV1 -INFO - Login passed
+2020-07-13 11:07:15,720 - ArgusV1 -INFO - User is provided
+2020-07-13 11:07:15,865 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:07:21,025 - ArgusV1 -INFO - Login passed
+2020-07-13 11:10:30,293 - ArgusV1 -INFO - URL is opened
+2020-07-13 11:10:30,428 - ArgusV1 -INFO - Entered username
+2020-07-13 11:10:30,479 - ArgusV1 -INFO - Entered Password
+2020-07-13 11:10:52,246 - ArgusV1 -INFO - User is provided
+2020-07-13 11:10:52,299 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:10:57,304 - ArgusV1 -INFO - User is provided
+2020-07-13 11:10:57,366 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:11:02,191 - ArgusV1 -INFO - User is provided
+2020-07-13 11:11:02,231 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:11:07,480 - ArgusV1 -INFO - User is provided
+2020-07-13 11:11:07,529 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 11:11:12,347 - ArgusV1 -INFO - User is provided
+2020-07-13 11:11:12,406 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 12:55:49,576 - ArgusV1 -INFO - URL is opened
+2020-07-13 12:55:49,703 - ArgusV1 -INFO - Entered username
+2020-07-13 12:55:49,775 - ArgusV1 -INFO - Entered Password
+2020-07-13 12:55:52,211 - ArgusV1 -INFO - Test is passed
+2020-07-13 12:56:13,227 - ArgusV1 -INFO - User is provided
+2020-07-13 12:56:13,279 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 12:56:18,866 - ArgusV1 -INFO - Login passed
+2020-07-13 12:56:24,174 - ArgusV1 -INFO - User is provided
+2020-07-13 12:56:24,270 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 12:56:29,495 - ArgusV1 -INFO - Login passed
+2020-07-13 12:56:34,761 - ArgusV1 -INFO - User is provided
+2020-07-13 12:56:34,805 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 12:56:39,959 - ArgusV1 -INFO - Login passed
+2020-07-13 12:56:46,103 - ArgusV1 -INFO - User is provided
+2020-07-13 12:56:46,149 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 12:56:51,447 - ArgusV1 -INFO - Login passed
+2020-07-13 12:56:56,634 - ArgusV1 -INFO - User is provided
+2020-07-13 12:56:56,674 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 12:57:01,528 - ArgusV1 -INFO - Login passed
+2020-07-13 12:57:21,305 - ArgusV1 -INFO - User name is provided
+2020-07-13 12:57:21,349 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 12:57:26,932 - ArgusV1 -INFO - providing customer details....
+2020-07-13 12:57:35,685 - ArgusV1 -INFO - validation started....
+2020-07-13 13:02:15,857 - ArgusV1 -INFO - URL is opened
+2020-07-13 13:02:16,065 - ArgusV1 -INFO - Entered username
+2020-07-13 13:02:16,122 - ArgusV1 -INFO - Entered Password
+2020-07-13 13:02:18,117 - ArgusV1 -INFO - Test is passed
+2020-07-13 13:02:40,202 - ArgusV1 -INFO - User is provided
+2020-07-13 13:02:40,248 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 13:02:46,643 - ArgusV1 -INFO - Login passed
+2020-07-13 13:02:52,391 - ArgusV1 -INFO - User is provided
+2020-07-13 13:02:52,435 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 13:02:57,489 - ArgusV1 -INFO - Login passed
+2020-07-13 13:03:02,731 - ArgusV1 -INFO - User is provided
+2020-07-13 13:03:02,769 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 13:03:07,695 - ArgusV1 -INFO - Login passed
+2020-07-13 13:03:13,634 - ArgusV1 -INFO - User is provided
+2020-07-13 13:03:13,679 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 13:03:19,150 - ArgusV1 -INFO - Login passed
+2020-07-13 13:03:24,386 - ArgusV1 -INFO - User is provided
+2020-07-13 13:03:24,428 - ArgusV1 -INFO - Pwd is provided
+2020-07-13 13:03:29,555 - ArgusV1 -INFO - Login passed
+2020-07-13 13:03:48,982 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:03:49,029 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:03:55,160 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:04:03,967 - ArgusV1 -INFO - validation started....
+2020-07-13 13:07:38,138 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:07:38,197 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:07:45,286 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:07:54,091 - ArgusV1 -INFO - validation started....
+2020-07-13 13:09:15,468 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:09:15,518 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:09:22,419 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:09:31,248 - ArgusV1 -INFO - validation started....
+2020-07-13 13:13:27,693 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:13:27,749 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:13:33,884 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:13:42,707 - ArgusV1 -INFO - validation started....
+2020-07-13 13:20:58,275 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:20:58,330 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:21:04,814 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:21:13,624 - ArgusV1 -INFO - validation started....
+2020-07-13 13:22:36,839 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:22:36,887 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:22:43,133 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:23:07,039 - ArgusV1 -INFO - validation started....
+2020-07-13 13:25:13,442 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:25:13,491 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:25:20,164 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:27:19,010 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:27:19,058 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:27:25,428 - ArgusV1 -INFO - providing customer details....
+2020-07-13 13:30:31,867 - ArgusV1 -INFO - User name is provided
+2020-07-13 13:30:31,916 - ArgusV1 -INFO - Passsword is provided
+2020-07-13 13:30:37,295 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:21:40,122 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:21:40,185 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:21:46,993 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:22:16,244 - ArgusV1 -INFO - validation started....
+2020-07-14 10:23:01,576 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:23:01,625 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:23:08,759 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:23:32,975 - ArgusV1 -INFO - validation started....
+2020-07-14 10:24:57,451 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:24:57,500 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:25:04,164 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:25:28,288 - ArgusV1 -INFO - validation started....
+2020-07-14 10:36:02,150 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:36:02,203 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:36:08,062 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:36:32,156 - ArgusV1 -INFO - validation started....
+2020-07-14 10:37:58,190 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:37:58,242 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:38:04,230 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:38:28,341 - ArgusV1 -INFO - validation started....
+2020-07-14 10:38:28,359 - ArgusV1 -INFO - test case failed....
+2020-07-14 10:50:30,772 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:50:30,822 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:50:37,641 - ArgusV1 -INFO - providing customer details....
+2020-07-14 10:57:55,382 - ArgusV1 -INFO - User name is provided
+2020-07-14 10:57:55,433 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 10:58:02,805 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:04:13,707 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:04:13,765 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:04:19,832 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:04:44,087 - ArgusV1 -INFO - validation started....
+2020-07-14 11:07:31,327 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:07:31,377 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:07:37,443 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:08:01,606 - ArgusV1 -INFO - validation started....
+2020-07-14 11:09:39,555 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:09:39,611 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:09:46,355 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:29:02,120 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:29:02,171 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:29:08,083 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:29:32,683 - ArgusV1 -INFO - validation started....
+2020-07-14 11:33:27,679 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:33:27,729 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:33:33,985 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:33:58,382 - ArgusV1 -INFO - validation started....
+2020-07-14 11:35:19,972 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:35:20,028 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:35:26,098 - ArgusV1 -INFO - providing customer details....
+2020-07-14 11:35:50,655 - ArgusV1 -INFO - validation started....
+2020-07-14 11:38:11,750 - ArgusV1 -INFO - User name is provided
+2020-07-14 11:38:11,821 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 11:38:18,554 - ArgusV1 -INFO - providing customer details....
+2020-07-14 13:09:43,833 - ArgusV1 -INFO - User name is provided
+2020-07-14 13:09:43,920 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 13:09:50,012 - ArgusV1 -INFO - providing customer details....
+2020-07-14 13:12:20,627 - ArgusV1 -INFO - User name is provided
+2020-07-14 13:12:20,672 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 13:12:26,412 - ArgusV1 -INFO - providing customer details....
+2020-07-14 13:49:34,026 - ArgusV1 -INFO - User name is provided
+2020-07-14 13:49:34,078 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 13:49:40,763 - ArgusV1 -INFO - providing customer details....
+2020-07-14 13:50:04,606 - ArgusV1 -INFO - validation started....
+2020-07-14 13:50:37,752 - ArgusV1 -INFO - User name is provided
+2020-07-14 13:50:37,800 - ArgusV1 -INFO - Passsword is provided
+2020-07-14 13:50:43,955 - ArgusV1 -INFO - providing customer details....
+2020-07-14 13:51:08,041 - ArgusV1 -INFO - validation started....
+2020-07-17 11:32:59,669 - ArgusV1 -INFO - URL is opened
+2020-07-17 11:32:59,836 - ArgusV1 -INFO - Entered username
+2020-07-17 11:32:59,901 - ArgusV1 -INFO - Entered Password
+2020-07-17 11:33:03,138 - ArgusV1 -INFO - Test is passed
+2020-07-17 11:33:34,030 - ArgusV1 -INFO - User is provided
+2020-07-17 11:33:34,095 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 11:34:18,190 - ArgusV1 -INFO - Login passed
+2020-07-17 11:34:30,734 - ArgusV1 -INFO - User is provided
+2020-07-17 11:34:30,769 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 11:34:36,940 - ArgusV1 -INFO - Login passed
+2020-07-17 11:34:43,072 - ArgusV1 -INFO - User is provided
+2020-07-17 11:34:43,119 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 11:34:50,229 - ArgusV1 -INFO - Login passed
+2020-07-17 11:34:56,404 - ArgusV1 -INFO - User is provided
+2020-07-17 11:34:56,445 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 11:35:02,282 - ArgusV1 -INFO - Login passed
+2020-07-17 11:35:07,978 - ArgusV1 -INFO - User is provided
+2020-07-17 11:35:08,012 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 11:35:14,138 - ArgusV1 -INFO - Login passed
+2020-07-17 12:39:07,983 - ArgusV1 -INFO - URL is opened
+2020-07-17 12:39:08,475 - ArgusV1 -INFO - Entered username
+2020-07-17 12:39:08,670 - ArgusV1 -INFO - Entered Password
+2020-07-17 12:39:12,270 - ArgusV1 -INFO - Test is passed
+2020-07-17 12:39:37,168 - ArgusV1 -INFO - User is provided
+2020-07-17 12:39:37,234 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:39:43,526 - ArgusV1 -INFO - Login passed
+2020-07-17 12:39:49,370 - ArgusV1 -INFO - User is provided
+2020-07-17 12:39:49,424 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:39:55,302 - ArgusV1 -INFO - Login passed
+2020-07-17 12:40:00,975 - ArgusV1 -INFO - User is provided
+2020-07-17 12:40:01,008 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:40:06,908 - ArgusV1 -INFO - Login passed
+2020-07-17 12:40:12,544 - ArgusV1 -INFO - User is provided
+2020-07-17 12:40:12,573 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:40:18,606 - ArgusV1 -INFO - Login passed
+2020-07-17 12:40:24,538 - ArgusV1 -INFO - User is provided
+2020-07-17 12:40:24,569 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:40:31,191 - ArgusV1 -INFO - Login passed
+2020-07-17 12:47:27,949 - ArgusV1 -INFO - URL is opened
+2020-07-17 12:47:28,106 - ArgusV1 -INFO - Entered username
+2020-07-17 12:47:28,166 - ArgusV1 -INFO - Entered Password
+2020-07-17 12:47:32,144 - ArgusV1 -INFO - Test is passed
+2020-07-17 12:47:55,753 - ArgusV1 -INFO - User is provided
+2020-07-17 12:47:55,810 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:48:02,110 - ArgusV1 -INFO - Login passed
+2020-07-17 12:48:07,649 - ArgusV1 -INFO - User is provided
+2020-07-17 12:48:07,683 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:48:13,842 - ArgusV1 -INFO - Login passed
+2020-07-17 12:48:20,030 - ArgusV1 -INFO - User is provided
+2020-07-17 12:48:20,066 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:48:26,538 - ArgusV1 -INFO - Login passed
+2020-07-17 12:48:31,985 - ArgusV1 -INFO - User is provided
+2020-07-17 12:48:32,017 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:48:38,298 - ArgusV1 -INFO - Login passed
+2020-07-17 12:48:43,751 - ArgusV1 -INFO - User is provided
+2020-07-17 12:48:43,786 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 12:48:49,584 - ArgusV1 -INFO - Login passed
+2020-07-17 14:13:08,842 - ArgusV1 -INFO - URL is opened
+2020-07-17 14:13:09,192 - ArgusV1 -INFO - Entered username
+2020-07-17 14:13:09,251 - ArgusV1 -INFO - Entered Password
+2020-07-17 14:13:15,974 - ArgusV1 -INFO - Test is passed
+2020-07-17 14:13:40,141 - ArgusV1 -INFO - User is provided
+2020-07-17 14:13:40,189 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 14:13:46,961 - ArgusV1 -INFO - Login passed
+2020-07-17 14:13:52,171 - ArgusV1 -INFO - User is provided
+2020-07-17 14:13:52,207 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 14:13:58,672 - ArgusV1 -INFO - Login passed
+2020-07-17 14:14:04,090 - ArgusV1 -INFO - User is provided
+2020-07-17 14:14:04,122 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 14:14:09,992 - ArgusV1 -INFO - Login passed
+2020-07-17 14:14:15,706 - ArgusV1 -INFO - User is provided
+2020-07-17 14:14:15,746 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 14:14:21,980 - ArgusV1 -INFO - Login passed
+2020-07-17 14:14:27,350 - ArgusV1 -INFO - User is provided
+2020-07-17 14:14:27,382 - ArgusV1 -INFO - Pwd is provided
+2020-07-17 14:14:34,892 - ArgusV1 -INFO - Login passed
+2020-07-18 19:42:00,600 - ArgusV1 -INFO - URL is opened
+2020-07-18 19:42:01,008 - ArgusV1 -INFO - Entered username
+2020-07-18 19:42:01,223 - ArgusV1 -INFO - Entered Password
+2020-07-18 19:42:05,225 - ArgusV1 -INFO - Test is passed
+2020-07-18 19:42:33,182 - ArgusV1 -INFO - User is provided
+2020-07-18 19:42:33,261 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:42:39,921 - ArgusV1 -INFO - Login passed
+2020-07-18 19:42:45,137 - ArgusV1 -INFO - User is provided
+2020-07-18 19:42:45,174 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:42:51,423 - ArgusV1 -INFO - Login passed
+2020-07-18 19:42:57,170 - ArgusV1 -INFO - User is provided
+2020-07-18 19:42:57,216 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:43:04,380 - ArgusV1 -INFO - Login passed
+2020-07-18 19:43:10,129 - ArgusV1 -INFO - User is provided
+2020-07-18 19:43:10,161 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:43:16,113 - ArgusV1 -INFO - Login passed
+2020-07-18 19:43:21,807 - ArgusV1 -INFO - User is provided
+2020-07-18 19:43:21,901 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:43:27,673 - ArgusV1 -INFO - Login passed
+2020-07-18 19:45:36,199 - ArgusV1 -INFO - URL is opened
+2020-07-18 19:45:36,573 - ArgusV1 -INFO - Entered username
+2020-07-18 19:45:36,652 - ArgusV1 -INFO - Entered Password
+2020-07-18 19:45:42,749 - ArgusV1 -INFO - Test is passed
+2020-07-18 19:46:11,050 - ArgusV1 -INFO - User is provided
+2020-07-18 19:46:11,101 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:46:18,207 - ArgusV1 -INFO - Login passed
+2020-07-18 19:46:23,826 - ArgusV1 -INFO - User is provided
+2020-07-18 19:46:23,868 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:46:29,923 - ArgusV1 -INFO - Login passed
+2020-07-18 19:46:36,046 - ArgusV1 -INFO - User is provided
+2020-07-18 19:46:36,098 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:46:42,123 - ArgusV1 -INFO - Login passed
+2020-07-18 19:46:47,881 - ArgusV1 -INFO - User is provided
+2020-07-18 19:46:47,925 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:46:54,672 - ArgusV1 -INFO - Login passed
+2020-07-18 19:47:01,622 - ArgusV1 -INFO - User is provided
+2020-07-18 19:47:01,659 - ArgusV1 -INFO - Pwd is provided
+2020-07-18 19:47:07,795 - ArgusV1 -INFO - Login passed
+2020-07-20 19:48:04,570 - ArgusV1 -INFO - User is provided
+2020-07-20 19:48:04,695 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:48:12,782 - ArgusV1 -INFO - Login passed
+2020-07-20 19:48:19,072 - ArgusV1 -INFO - User is provided
+2020-07-20 19:48:19,104 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:48:24,820 - ArgusV1 -INFO - Login passed
+2020-07-20 19:48:30,048 - ArgusV1 -INFO - User is provided
+2020-07-20 19:48:30,090 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:48:35,970 - ArgusV1 -INFO - Login passed
+2020-07-20 19:48:41,825 - ArgusV1 -INFO - User is provided
+2020-07-20 19:48:41,855 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:48:47,487 - ArgusV1 -INFO - Login passed
+2020-07-20 19:48:53,251 - ArgusV1 -INFO - User is provided
+2020-07-20 19:48:53,284 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:49:04,619 - ArgusV1 -INFO - Login passed
+2020-07-20 19:51:45,899 - ArgusV1 -INFO - URL is opened
+2020-07-20 19:51:46,398 - ArgusV1 -INFO - Entered username
+2020-07-20 19:51:46,542 - ArgusV1 -INFO - Entered Password
+2020-07-20 19:51:49,941 - ArgusV1 -INFO - Test is passed
+2020-07-20 19:52:15,872 - ArgusV1 -INFO - User is provided
+2020-07-20 19:52:16,049 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:52:22,214 - ArgusV1 -INFO - Login passed
+2020-07-20 19:52:28,117 - ArgusV1 -INFO - User is provided
+2020-07-20 19:52:28,173 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:52:33,989 - ArgusV1 -INFO - Login passed
+2020-07-20 19:52:39,360 - ArgusV1 -INFO - User is provided
+2020-07-20 19:52:39,399 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:52:45,152 - ArgusV1 -INFO - Login passed
+2020-07-20 19:52:50,196 - ArgusV1 -INFO - User is provided
+2020-07-20 19:52:50,226 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:52:56,121 - ArgusV1 -INFO - Login passed
+2020-07-20 19:53:01,017 - ArgusV1 -INFO - User is provided
+2020-07-20 19:53:01,056 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:53:07,101 - ArgusV1 -INFO - Login passed
+2020-07-20 19:55:21,746 - ArgusV1 -INFO - URL is opened
+2020-07-20 19:55:22,140 - ArgusV1 -INFO - Entered username
+2020-07-20 19:55:22,284 - ArgusV1 -INFO - Entered Password
+2020-07-20 19:55:25,178 - ArgusV1 -INFO - Test is passed
+2020-07-20 19:55:47,287 - ArgusV1 -INFO - User is provided
+2020-07-20 19:55:47,361 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:55:53,717 - ArgusV1 -INFO - Login passed
+2020-07-20 19:55:59,640 - ArgusV1 -INFO - User is provided
+2020-07-20 19:55:59,674 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:56:05,429 - ArgusV1 -INFO - Login passed
+2020-07-20 19:56:10,917 - ArgusV1 -INFO - User is provided
+2020-07-20 19:56:10,947 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:56:17,029 - ArgusV1 -INFO - Login passed
+2020-07-20 19:56:22,860 - ArgusV1 -INFO - User is provided
+2020-07-20 19:56:22,894 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:56:28,788 - ArgusV1 -INFO - Login passed
+2020-07-20 19:56:34,397 - ArgusV1 -INFO - User is provided
+2020-07-20 19:56:34,435 - ArgusV1 -INFO - Pwd is provided
+2020-07-20 19:56:40,260 - ArgusV1 -INFO - Login passed
